@@ -34,4 +34,4 @@ gem "webrick", "~> 1.7"
 # minimal-mistakes theme
 gem "minimal-mistakes-jekyll"
 
-gem "rake", "~> 13.0"
+
